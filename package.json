@@ -1,0 +1,13 @@
+{
+  "name": "wlu-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
